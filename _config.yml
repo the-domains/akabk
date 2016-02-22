@@ -1,0 +1,28 @@
+name: akabk
+favicon: null
+layout_spectrum: 0.6248831038828939
+typography_spectrum: 0.5808112055528909
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.32534845476038754
+  lightness: 0.2441276798490435
+  saturation: 0.9935379605740309
+  rhythmicContrast: 0.8467480905819684
+purpose: []
